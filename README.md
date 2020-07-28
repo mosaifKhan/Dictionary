@@ -50,7 +50,7 @@ Not Found
 >>> data['Navin']
 'JS'
 
-# Now i am going to add some key in dictionary
+# Now i am going to add/delete some key in dictionary
 
 >>> data ['Monika'] = 'SQL'                                            //# Adding key
 >>> data
