@@ -34,7 +34,7 @@ None
 >>> print (data.get(3,'Not Found'))
 Not Found
 
-# Now i am going to merge two list into a dictionary so that i'll use a special function 'zip'.
+# Now i am going to merge two list into a dictionary so that i'll use a special function called 'zip'.
 
 >>> key = ['Mosaif', 'Harsh', 'Navin']
 >>> values = ['Python', 'Java', 'JS']
@@ -50,7 +50,7 @@ Not Found
 >>> data['Navin']
 'JS'
 
-# Now i am going to add some fey in dictionary
+# Now i am going to add some key in dictionary
 
 >>> data ['Monika'] = 'SQL'                                            //# Adding key
 >>> data
